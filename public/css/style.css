@@ -69,14 +69,6 @@ ul a:hover {
     font-weight: 600;
 }
 
-.hero-banner p {
-    display: none;
-}
-
-.btn--large {
-    padding: 14px 32px;
-}
-
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -193,18 +185,3 @@ ul a:hover {
 
 
 
-@media screen and (max-width: 600px) {
-    .header ul{
-        flex-direction: column;
-        height: auto;
-    }
-    ul li{
-        width: 100%;
-        justify-content: center;
-    }
-    ul a{
-        padding: 10px 0;
-        width: 100%;
-        justify-content: center;
-    }
-}
