@@ -5,7 +5,7 @@ require_once("header.php");
 <div class="content">
     <section class="hero-banner">
         <div class="hero-banner-inner">
-            <h1>Лучшие турыssssssssssssssssss, выгодные предложения и комфортный отдых в одном месте.</h1>
+            <h1>Лучшие туры, выгодные предложения и комфортный отдых в одном месте.</h1>
         </div>
     </section>
     <div class="cards">
